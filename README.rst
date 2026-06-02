@@ -11,11 +11,11 @@ REPOLLO - repopulating local subhalos ...
 
 This example shows a basic Sphinx project with Read the Docs. You're encouraged to view it to get inspiration and copy & paste from the files in the source code. If you are using Read the Docs for the first time, have a look at the official `Read the Docs Tutorial <https://docs.readthedocs.io/en/stable/tutorial/index.html>`__.
 
-📚 `docs/ <https://github.com/AleKit/docs-test/tree/main/docs/>`_
+📚 `docs/ <https://github.com/saraporrasbedmar/repollo/tree/main/docs/>`_
     A basic Sphinx project lives in ``docs/``. All the ``*.rst`` make up sections in the documentation.
-⚙️ `.readthedocs.yaml <https://github.com/AleKit/docs-test/tree/main/.readthedocs.yaml>`_
+⚙️ `.readthedocs.yaml <https://github.com/AleKit/saraporrasbedmar/repollo/main/.readthedocs.yaml>`_
     Read the Docs Build configuration is stored in ``.readthedocs.yaml``.
-⚙️ `docs/conf.py <https://github.com/AleKit/docs-test/tree/main/docs/conf.py>`_
+⚙️ `docs/conf.py <https://github.com/saraporrasbedmar/repollo/tree/main/docs/conf.py>`_
     Both the configuration and the folder layout follow Sphinx default conventions. You can change the `Sphinx configuration values <https://www.sphinx-doc.org/en/master/usage/configuration.html>`_ in this file
 📍 blabla
 
