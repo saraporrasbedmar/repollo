@@ -17,9 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "REPOLLO - repopu"
+copyright = "2026, Sara Porras-Bedmar & Alejandra Aguirre-Santaella"
+author = "Sara Porras-Bedmar & Alejandra Aguirre-Santaella"
+version = "x.x"
 
 
 # -- General configuration ---------------------------------------------------
