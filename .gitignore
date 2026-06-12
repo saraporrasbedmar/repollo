@@ -1,6 +1,5 @@
 # ignore all outputs that are created during the process
 /*.png
-*.txt
 *.sh
 *.dat
 *.h5
@@ -8,6 +7,9 @@ outputs/
 envs/
 /.idea/
 .idea/
+
+scripts/*.txt
+source/*.txt
 
 
 */__pycache__/*
