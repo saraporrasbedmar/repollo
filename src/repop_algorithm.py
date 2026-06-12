@@ -18,7 +18,7 @@ from astropy import constants as c
 
 
 def memory_usage_psutil():
-    # return the memory usage in MB
+    # Return the memory usage in MB
     process = psutil.Process(os.getpid())
     mem = process.memory_info()[0] / float(10 ** 6)
     return mem

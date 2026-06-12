@@ -38,11 +38,14 @@ outtime = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
 #     'formula': srd_example, 'params': 1e2}
 
 
-model = RepopAlgorithm(input_file)
+class aaa(RepopAlgorithm):
+    def number_subhalos(self, x_min, x_max, force_no_fraction=None):
+        return 1500
+
+model = aaa(input_file)
 
 
 model.run('outputs/test_' + outtime,
-          # No conf given runs all listed configs
-          # configuration=['dmo_fragile']
+          configuration=['dmo_fragile']
           )
 
