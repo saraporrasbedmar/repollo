@@ -1,12 +1,11 @@
 .. include:: ../README.rst
 
-Welcome to reporepo documentation!
+Welcome to repollo documentation!
 ===================================
 
-**reporepo** (/lu'make/) is a Python library for cooks and food lovers
-that creates universes (recipes) mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**repollo** (/pronunciacion/) is a Python library for cooks and food lovers
+that creates universes (recipes) mixing (not so) random ingredients.
+It pulls data from .. simulations
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -18,8 +17,12 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
    Home <self>
+   modules
    usage
    api
